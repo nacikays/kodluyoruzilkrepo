@@ -3,10 +3,17 @@ Bu repo [kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 
 # Usage
 Projeyi kolanladıktan sonra Visual Studio Code programını açınız.
+<br>
 Linux için: 
 
-    'cd kodluyoruzilkrepo'
-    'code.'
+    cd kodluyoruzilkrepo
+    code.
+
+# Contributing
+Pull requestler kabul edilir. Büyük değişikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız. 
+
+# Licence
+[MIT](https://choosealicense.com/licenses/mit/)  
 
 
 
