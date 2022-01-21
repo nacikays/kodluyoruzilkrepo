@@ -13,8 +13,5 @@ Linux için:
 Pull requestler kabul edilir. Büyük değişikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız. 
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)  
 
-
-
-
+![image](C:\Users\naci_\Desktop\kodluyoruzilkrepo-main\Readme.png)
