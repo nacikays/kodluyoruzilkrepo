@@ -1,7 +1,7 @@
-# kodluyoruz Ilk Repo
+# Kodluyoruz Ilk Repo
 Bu repo [kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-# Usage
+## Usage
 Projeyi kolanladıktan sonra Visual Studio Code programını açınız.
 <br>
 Linux için: 
@@ -9,10 +9,10 @@ Linux için:
     cd kodluyoruzilkrepo
     code.
 
-# Contributing
+## Contributing
 Pull requestler kabul edilir. Büyük değişikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız. 
 
-# Licence
+## License
 [MIT](https://choosealicense.com/licenses/mit/)  
 
 
