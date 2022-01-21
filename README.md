@@ -14,4 +14,4 @@ Pull requestler kabul edilir. Büyük değişikler için, lütfen önce neyi de�
 
 ## License
 
-![image](C:\Users\naci_\Desktop\kodluyoruzilkrepo-main\Readme.png)
+![ReadmeScreenshotImage](./image.png)
